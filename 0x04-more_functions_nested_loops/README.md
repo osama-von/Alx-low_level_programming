@@ -1,1 +1,1 @@
-Write a function that prints a square, followed by a new line.
+The “Fizz-Buzz test” is an interview question designed to help filter out the 99.5% of programming
