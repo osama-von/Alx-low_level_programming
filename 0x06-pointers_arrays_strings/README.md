@@ -1,1 +1,1 @@
-Write a function that concatenates two string
+Write a function that copies a string.
