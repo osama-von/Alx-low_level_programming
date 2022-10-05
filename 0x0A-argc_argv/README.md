@@ -1,1 +1,1 @@
-0x0A. C - argc, argv
+Write a program that prints the number of arguments passed into it.
